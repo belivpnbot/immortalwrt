@@ -11,7 +11,7 @@ Default login address: http://192.168.1.1 or http://immortalwrt.lan, username: _
 Built firmware images are available for many architectures and come with a package selection to be used as WiFi home router. To quickly find a factory image usable to migrate from a vendor stock firmware to ImmortalWrt, try the *Firmware Selector*.
 
 - [ImmortalWrt Firmware Selector](https://firmware-selector.immortalwrt.org/)
-- [ImmortalWrt Firmware rockchip/armv8 ]([https://firmware-selector.immortalwrt.org/](https://downloads.immortalwrt.org/releases/23.05.4/targets/rockchip/armv8/))
+- [ImmortalWrt Firmware rockchip/armv8 ]([https://firmware-selector.immortalwrt.org/](https://downloads.immortalwrt.org/releases/23.05.4/targets/rockchip/armv8/)
 
 If your device is supported, please follow the **Info** link to see install instructions or consult the support resources listed below.
 
